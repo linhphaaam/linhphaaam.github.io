@@ -22,13 +22,17 @@ html, body {
     background: honeydew !important;
 }
 
+.self {
+    background: aliceblue !important;
+}
+
 .column {
     border-style: solid;
     border-color: gray;
     border-width: 0px 1px 1px 0px;
     width: 30%;
     height: 100%;
-    margin: 0;
+    margin-left: -0.3%;
     overflow: scroll;
     white-space: normal;
     display: inline-block;
